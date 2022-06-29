@@ -1,0 +1,13 @@
+
+w
+java:S1192"aDefine a constant instead of duplicating this literal "Sofka_U::Training::Ejercicio Uno" 5 times.(ŸÚ›¤
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ŸÖùáüÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘
+W
+java:S1854
+"ARemove this useless assignment to local variable "segundoNumero".(˜êÖË
+V
+java:S1854	"@Remove this useless assignment to local variable "primerNumero".(ÔıŸĞ
+R
+java:S1128"=Remove this unused import 'java.util.InputMismatchException'.(İ§1
