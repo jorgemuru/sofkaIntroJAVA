@@ -4,6 +4,9 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Principal {
+    /***
+     * @Author Jorge MARTINEZ
+     */
     public static void main(String[] args) {
         Scanner lector = new Scanner(System.in);
         boolean sigue = true;
