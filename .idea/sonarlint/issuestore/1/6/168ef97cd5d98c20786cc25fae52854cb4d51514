@@ -1,0 +1,14 @@
+
+‚
+java:S1192"lDefine a constant instead of duplicating this literal "-------------------------------------------" 3 times.(ËÞõŒ
+G
+java:S1153"1Directly append the argument of String.valueOf().(úîžÆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾¸¾Óþÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¹âý`
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÞõŒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“ªÖ›
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü¥åø
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÞõŒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼¡Ç¼
+N	java:S106"9Replace this use of System.out or System.err by a logger.(úîžÆ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÞõŒ

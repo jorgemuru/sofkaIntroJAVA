@@ -1,0 +1,16 @@
+
+‚
+java:S1192"lDefine a constant instead of duplicating this literal "-------------------------------------------" 4 times.(ËÞõŒ
+Z
+java:S1854"?Remove this useless assignment to local variable "frasePropia".(ÓÌåìøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾¸¾Óþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(é‹µ®
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÞõŒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êÿ‘ùüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(â‚»æûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³‘°Åþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÞõŒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü¥åø
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÞõŒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ¢Ú‡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÞõŒ

@@ -1,0 +1,35 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(À®¾áùÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(À®¾áùÿÿÿÿ
+E
+java:S3740."/Provide the parametrized type for this generic.(¡“ª›
+J
+java:S3740/"/Provide the parametrized type for this generic.(À®¾áùÿÿÿÿ
+J
+java:S3740/"/Provide the parametrized type for this generic.(À®¾áùÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "lasDif".(À®¾áùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾¸¾Óşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶åì£øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËŞõŒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÒûé
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ì‹êä
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Óó€¢
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(íëä‘
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(²İÕşÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(àïùÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ËŞõŒ8ÉŠåÀ›0
+h
+java:S3776."RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¡“ª›
+T
+java:S18544"9Remove this useless assignment to local variable "largo".(•ùĞåùÿÿÿÿ
+<	java:S131;""Add a default case to this switch.(Œ””ôşÿÿÿÿ
+?
+java:S1940@")Use the opposite operator ("!=") instead.(Î“Ãä
+?
+java:S1940J")Use the opposite operator ("!=") instead.(Î“Ãä
+?
+java:S1940W")Use the opposite operator ("!=") instead.(Î“Ãä

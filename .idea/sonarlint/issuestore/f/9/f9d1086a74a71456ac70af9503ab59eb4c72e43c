@@ -1,0 +1,27 @@
+
+”
+java:S1192"yDefine a constant instead of duplicating this literal "Â¡Â¡Â¡Â¡ERROR!!!! - DEBE INGRESAR UN NUMERO MAYOR A CERO" 3 times.(¿ëŒ©ıÿÿÿÿ
+ƒ
+java:S1192""hDefine a constant instead of duplicating this literal "Â¡Â¡Â¡ERROR--DEBE INGRESAR UN NUMERO!!!" 3 times.(‰‡€­ùÿÿÿÿ
+T
+java:S1854<">Remove this useless assignment to local variable "personaUno".(œÅ¯¦
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾¸¾Óşÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÂßK
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËŞõŒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Áƒäƒÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ĞˆÕÜúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½øâ¸
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¡¬…
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿ëŒ©ıÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(‰‡€­ùÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(İ„Æ‚
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(÷¢Œ¼
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(¿ëŒ©ıÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(‰‡€­ùÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(Œ¡ÉÏ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(¿ëŒ©ıÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(‰‡€­ùÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(¡ˆ¨şÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(¼ëéÿùÿÿÿÿ
+E
+java:S1481<"/Remove this unused "personaUno" local variable.(œÅ¯¦

@@ -1,0 +1,16 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾¸¾Óşÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(éÏ­
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËŞõŒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šµ·
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Ş×ÂÁ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(©ĞòÁüÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(·Ñ™†ÿÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(£Æ¼úÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ÌË¾”ÿÿÿÿÿ
+R
+java:S1128"=Remove this unused import 'java.util.InputMismatchException'.(İ§1
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ

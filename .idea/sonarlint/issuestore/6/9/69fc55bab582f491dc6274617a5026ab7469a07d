@@ -1,0 +1,16 @@
+
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ŸÖùáüÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "sigue".(ñ´–
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾¸¾Óşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İ–æÆıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËŞõŒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ø§­ßúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ş ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õ–Ÿğ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(±ñÃÃ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(Ú¿äÉ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(íÓµÿÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(…ë„»úÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(‰‡€­ùÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(šÊ‡£

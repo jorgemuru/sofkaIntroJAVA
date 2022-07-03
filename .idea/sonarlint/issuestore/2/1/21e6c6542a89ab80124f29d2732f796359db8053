@@ -1,0 +1,22 @@
+
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ŸÖùáüÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘
+W
+java:S1854"ARemove this useless assignment to local variable "segundoNumero".(íÒû
+V
+java:S1854
+"@Remove this useless assignment to local variable "primerNumero".(’âå«
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾¸¾Óşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›Ú’
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËŞõŒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(º¡ßõ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(†’‘¯
+N	java:S106"9Replace this use of System.out or System.err by a logger.(çüˆ¨
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰‡€­ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÀ¢œÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰‡€­ùÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(Ú–¦Ñ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ÆŞÜğ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(¯ˆüé
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(šÊ‡£

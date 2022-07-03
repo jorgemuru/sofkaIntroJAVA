@@ -30,6 +30,6 @@ public class Principal {
         // losVideoJuegos[ubicaJuego].toString())
 
         //Todas las recorridas las realizo con un For.
-        
+
     }//fin main
 }//fin clase

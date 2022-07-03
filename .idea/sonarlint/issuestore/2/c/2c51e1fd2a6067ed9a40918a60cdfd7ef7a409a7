@@ -1,0 +1,14 @@
+
+]
+java:S1854"BRemove this useless assignment to local variable "losVideoJuegos".(Ù–Ú ûÿÿÿÿ
+S
+java:S1854"=Remove this useless assignment to local variable "lasSeries".(·Í¢Ö
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(¾¸¾Óþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üíœþþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÞõŒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹± Âùÿÿÿÿ
+D
+java:S1481".Remove this unused "lasSeries" local variable.(·Í¢Ö
+N
+java:S1481"3Remove this unused "losVideoJuegos" local variable.(Ù–Ú ûÿÿÿÿ
