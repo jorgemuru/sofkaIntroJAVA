@@ -9,6 +9,7 @@ public class VideoJuego implements Entregable{
     private boolean entregado = false;
     private String genero = "";
     private String compania = "";
+    private boolean prestado = false;
 
     //Constructores
     public VideoJuego() {
@@ -61,23 +62,24 @@ public class VideoJuego implements Entregable{
 
     //Metodos a implementar (Interfaz Entregable)
     @Override
-    public boolean entregar() {
-        return false;
+    public void entregar(Object valor) {
+        this.prestado = true;
     }
 
     @Override
-    public boolean devolver() {
-        return false;
+    public void devolver(Object valor) {
+        this.prestado = false;
     }
 
     @Override
-    public void isEntregado() {
-
+    public boolean isEntregado() {
+        return this.prestado;
     }
 
     @Override
     public void compareTo(Object a) {
-
+        VideoJuego unVideo = (VideoJuego) a;
+        this.compareTo(unVideo);
     }
 
     @Override
